@@ -7,7 +7,7 @@ export default function HomeScreen() {
       <Text style={styles.headerText}>FORTUNE TELLER</Text>
       <Image
         source={{
-          uri:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOUPTWkOWivTnxPVCyX19Va-HRR9AFG9C0xp20kx1fW17COAJT-J_ngs&s=10',
+          uri:'https://cdn-images.threadless.com/~tms/akashashrine/products/3581681/shirt-1716826705-5018c7f182bb8f121ce02c45d956974a.png?v=3&d=g6NvcHOWk6R0cmltksLCgJOmcmVzaXplkIOld2lkdGjLQI8gAAAAAACmaGVpZ2h0y0CPIAAAAAAAqGFsbG93X3VwwpOvY2FudmFzX2NlbnRlcmVkks0EsM0EsIGqYmFja2dyb3VuZKYwMDAwMDCTpnJlc2l6ZZHNAyCAk69jYW52YXNfY2VudGVyZWSTzQMgzQMgpyNmZmZmZmaAk6ZlbmNvZGWSpHdlYnBVgKVmb3JjZcKpb25seV9tZXRhwg==&f=mp',
         }}
         style={styles.image}
       />

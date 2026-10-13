@@ -8,7 +8,7 @@ export default function RevealScreen() {
 
       <Image
         source={{
-          uri:'https://encryptedtbn0.gstatic.com/images?q=tbn:ANd9GcQarJlqCxZ8swcgkDNWHV82hEdGeyVkoDS6xdYgr7oRAi_RYuhU5kWKr8&s=10'
+          uri:'https://i.pinimg.com/200x150/54/98/c8/5498c80e8a188bee2fb257cfc3c66f78.jpg',
         }}
         style={styles.image}
       />
